@@ -1,2 +1,3 @@
-# mc-cc-scripts
-Minecraft Computer Craft Scripts
+# Minecraft Computer Craft Scripts
+
+Computer Craft programs
